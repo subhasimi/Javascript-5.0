@@ -111,16 +111,32 @@ ex. A+B
 -> Operator are the key features to do some task or operate some task.
 ex. A + B
 -> In the above example A & B are the operands , '+' is the operators to do the addition.
-Arithmetic Operators:- (+,-.*,/) modulus -> % Exponentiation -> **
+1.Arithmetic Operators:- (+,-.*,/)
+ modulus -> % 
+ Exponentiation -> **
 
-unary operator:= increament -> ++ decrement -> --
+2.unary operator:= increament -> ++ decrement -> --
 
-Assignment operator :- (assign some value to the variables) (=, +=, -=, *=, %=, **=)
+3.Assignment operator :- (assign some value to the variables) (=, +=, -=, *=, %=, **=)
 
-Comparison operator :- (compair the values)
+4.Comparison operator :- (compair the values)
 
-Its give the eresult true or false. equal to -> == not equal to -> != equal to & type -> === not equal to & type -> !== (>, >=, <, <=)
-Logical Operator :- checks the logic of the operator(true/false) Logical AND && table of AND operator is :- cond 1 , cond 2, res (&&) T + T = T T + F = F F + T = F F + F = F Logical OR || Table of OR operator is :- cond 1 , cond 2, res (||) T + T = T T + F = T F + T = T F + F = F Logical NOT !
+Its give the eresult true or false.
+equal to -> == 
+not equal to -> != 
+equal to & type -> ===
+not equal to & type -> !== (>, >=, <, <=)
+5.Logical Operator :- checks the logic of the operator(true/false) Logical AND && table of AND operator is :- cond 1 , cond 2, res (&&)
+ T + T = T
+ T + F = F
+ F + T = F
+ F + F = F
+    Logical OR || Table of OR operator is :- cond 1 , cond 2, res (||)
+      T + T = T
+      T + F = T
+      F + T = T
+      F + F = F
+    Logical NOT !
 
 conditional statement :-
 
@@ -128,15 +144,15 @@ to implement some condition in the code
 
 there are 3 types of conditional statements are there
 
-If condition :-
+1.If condition :-
 
 if condition is true then statement is true otherwise false. syntax :- if(condition){ statement }
 
-If-else condition:-
+2.If-else condition:-
 
 If condition is true then block executed otherwise its terminate to else condition. syntax :- if(condition){ statement } else{ statement }
 
-else-if condition:-
+3.else-if condition:-
 
 Its check the condition multiple times where condition is true. syntax :- if(condition){ statement } else if(condition) { statement } else if(condition) { statement } else { statement }
 

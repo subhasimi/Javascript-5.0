@@ -146,15 +146,18 @@ there are 3 types of conditional statements are there
 
 1.If condition :-
 
-if condition is true then statement is true otherwise false. syntax :- if(condition){ statement }
+if condition is true then statement is true otherwise false. 
+syntax :- if(condition){ statement }
 
 2.If-else condition:-
 
-If condition is true then block executed otherwise its terminate to else condition. syntax :- if(condition){ statement } else{ statement }
+If condition is true then block executed otherwise its terminate to else condition.
+ syntax :- if(condition){ statement } else{ statement }
 
 3.else-if condition:-
 
-Its check the condition multiple times where condition is true. syntax :- if(condition){ statement } else if(condition) { statement } else if(condition) { statement } else { statement }
+Its check the condition multiple times where condition is true.
+ syntax :- if(condition){ statement } else if(condition) { statement } else if(condition) { statement } else { statement }
 
 
 

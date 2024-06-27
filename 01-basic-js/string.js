@@ -24,7 +24,9 @@
 
 //escape charecter example
 
-// / //it prints 10 as the output because \ & t combined to make one charecter.
+// let str="web\tbocket";
+//console.log(str)
+//console.log(str.length)  //it prints 10 as the output because \ & t combined to make one charecter.
 
 // let str="webbocket";
 // let newStr=str.toUpperCase();

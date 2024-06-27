@@ -44,16 +44,23 @@
 // }
 // console.log("string size=",size);
 
-let student={
-    name:"subhasmita",
-    age:20,
-    CGPA:9.7,
-    ispass:true,
-}
+// let student={
+//     name:"subhasmita",
+//     age:20,
+//     CGPA:9.7,
+//     ispass:true,
+// }
 //let side part is my keys & right side is my values
 //here name,age,CGPA,ispass is my keys
 //subhasmita,20,9.7,true is my values
 
-for(let key in student){
-    console.log("key =",key,"value =",student[key])
-}
+// for(let key in student){
+//     console.log("key =",key,"value =",student[key])
+// }
+
+// for(let i=0; i<=100; i++){
+//     if(i % 2 === 0){
+//         console.log("i = ",i);
+//     }
+// }
+

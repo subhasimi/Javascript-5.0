@@ -197,7 +197,35 @@ for(let key in objvar){
    1. print all even number 0 to 100
    2.create a game you start with any random game number. ask the user to keep guessing the game number untill the user enters correct value.
 
+String in js:-
+-string is a sequence of charecters used to represent text.
+-create a string -> let str ="web bocket"
+-string length-> str.length
+-string indexing -> str[0],str[1],str[2]...
 
+
+Tamplate literals in js:-
+-A way to have embedded expression in string.
+-its denoted on``.i.e `today is a great day`
+
+String interpolation:-
+-To create string by doing substitution of placeholders.
+-ex:-
+   `string text ${expression} string text`
+
+   escape symbol :-
+   \n-new line
+   \t-tab inside the text
+
+   string methods:-
+   -these are built in function to manipulate a string.
+   1. str.touppercase()
+   2. str.tolowercase()
+   3.str.trim()
+   4.str.slice(start,end)
+   5.str.concat(str2)
+   6.str.replace(searchval,newval)
+   7.str.chatAt(idx) 
 
 
 

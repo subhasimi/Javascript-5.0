@@ -227,6 +227,13 @@ String interpolation:-
    6.str.replace(searchval,newval)
    7.str.chatAt(idx) 
 
+Array in js :-
+-Collection of items.
+ex:-
+let heros= ["ironman","batman","hulk","thor"];
+
+let marks=[89,56,98,23,90];
+let info=["rahul",89,"delhi",90];
 
 
 
